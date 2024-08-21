@@ -11,6 +11,10 @@ The Python version offers a sleek, user-friendly graphical interface built with 
 - Instant translation display with a single click.
 - User-friendly design with customized styles for better readability.
 
+  ![image](https://github.com/user-attachments/assets/a8c9f89d-8f8b-40e1-a0e1-8013fed30b08)
+
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Node.js (Command-line Interface)
 
 The Node.js implementation is a lightweight command-line tool that asks users to input the text, source language, and target language codes. It then performs the translation and displays the result in the terminal. This version is ideal for developers or users who prefer working directly in the command line.
@@ -19,6 +23,10 @@ The Node.js implementation is a lightweight command-line tool that asks users to
 - Interactive prompts for entering text and language codes.
 - Quick and efficient translation within the terminal.
 - Simpler setup without the need for a graphical environment.
+
+  ![image](https://github.com/user-attachments/assets/f85f4f61-048f-4b0b-8475-519034036d51)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Comparison
 
